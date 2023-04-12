@@ -1,2 +1,2 @@
 this is file a
-line from feat_b
+line from feat_b to a
